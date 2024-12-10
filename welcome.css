@@ -1,0 +1,20 @@
+html {
+    background-color: grey;
+}
+
+body {
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    text-align: center;
+    margin-top: 80px;
+    border-radius: 5px;
+    margin-left: 30%;
+}
+
+p {
+    color: black;
+}
+h1{
+    color: blue;
+}
